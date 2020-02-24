@@ -15,6 +15,8 @@ HighSpot Sample Exercise by Parth Patel
 dotnet run
 ~~~
 
+* for windows with .net core frameowrk just go to bin/Debug/netcoreapp3.1 and run the exe
+* for mac need go to bin/Debug/netcoreapp3.1/publish and use dotnet run HighSpotJson.dll 
 
 ## Assumption
 
