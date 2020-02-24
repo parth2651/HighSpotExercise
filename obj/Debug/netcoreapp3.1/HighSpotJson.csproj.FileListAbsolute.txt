@@ -1,0 +1,11 @@
+C:\Parth\my\Python\HighSpotJson\bin\Debug\netcoreapp3.1\HighSpotJson.exe
+C:\Parth\my\Python\HighSpotJson\bin\Debug\netcoreapp3.1\HighSpotJson.deps.json
+C:\Parth\my\Python\HighSpotJson\bin\Debug\netcoreapp3.1\HighSpotJson.runtimeconfig.json
+C:\Parth\my\Python\HighSpotJson\bin\Debug\netcoreapp3.1\HighSpotJson.runtimeconfig.dev.json
+C:\Parth\my\Python\HighSpotJson\bin\Debug\netcoreapp3.1\HighSpotJson.dll
+C:\Parth\my\Python\HighSpotJson\bin\Debug\netcoreapp3.1\HighSpotJson.pdb
+C:\Parth\my\Python\HighSpotJson\obj\Debug\netcoreapp3.1\HighSpotJson.csprojAssemblyReference.cache
+C:\Parth\my\Python\HighSpotJson\obj\Debug\netcoreapp3.1\HighSpotJson.AssemblyInfoInputs.cache
+C:\Parth\my\Python\HighSpotJson\obj\Debug\netcoreapp3.1\HighSpotJson.AssemblyInfo.cs
+C:\Parth\my\Python\HighSpotJson\obj\Debug\netcoreapp3.1\HighSpotJson.dll
+C:\Parth\my\Python\HighSpotJson\obj\Debug\netcoreapp3.1\HighSpotJson.pdb
